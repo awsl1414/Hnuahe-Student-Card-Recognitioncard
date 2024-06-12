@@ -218,6 +218,6 @@ for i, (gX, gY, gW, gH) in enumerate(locs):
 
 # %%
 print("Student Card #: {}".format("".join(output)))
-# cv_show("image", image)
+cv_show("image", image)
 
 # %%
